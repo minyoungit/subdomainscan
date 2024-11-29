@@ -1,0 +1,19 @@
+HostIP:112.106.28.50
+HostName:welstory.com
+
+Gathered Subdomain information for welstory.com
+---------------------------------
+Searching Google.com:80...
+HostName:www.welstory.com
+HostIP:112.106.28.50
+HostName:m.welstory.com
+HostIP:112.106.28.50
+HostName:srm.welstory.com
+HostIP:112.106.28.59
+HostName:doremi.welstory.com
+HostIP:112.106.28.56
+HostName:wink.welstory.com
+HostIP:112.106.28.36
+Searching Altavista.com:80...
+Found 5 possible subdomain(s) for host welstory.com, Searched 0 pages containing 0 results
+Searching Google.com:80...

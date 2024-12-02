@@ -1,0 +1,12 @@
+[92mwelstorymall.com[0m[94m (FQDN)[0m [97m-->[0m [95mmx_record[0m [97m-->[0m [92mmail3.welstorymall.com[0m[94m (FQDN)[0m
+[92mwelstorymall.com[0m[94m (FQDN)[0m [97m-->[0m [95mmx_record[0m [97m-->[0m [92mmail6.welstorymall.com[0m[94m (FQDN)[0m
+[92mwelstorymall.com[0m[94m (FQDN)[0m [97m-->[0m [95mmx_record[0m [97m-->[0m [92mmail1.welstorymall.com[0m[94m (FQDN)[0m
+[92mwelstorymall.com[0m[94m (FQDN)[0m [97m-->[0m [95mmx_record[0m [97m-->[0m [92mmail5.welstorymall.com[0m[94m (FQDN)[0m
+[92mwelstorymall.com[0m[94m (FQDN)[0m [97m-->[0m [95mmx_record[0m [97m-->[0m [92mmail2.welstorymall.com[0m[94m (FQDN)[0m
+[92mwelstorymall.com[0m[94m (FQDN)[0m [97m-->[0m [95mmx_record[0m [97m-->[0m [92mmail4.welstorymall.com[0m[94m (FQDN)[0m
+[92mwelstorymall.com[0m[94m (FQDN)[0m [97m-->[0m [95mnode[0m [97m-->[0m [92mmail3.welstorymall.com[0m[94m (FQDN)[0m
+[92mwelstorymall.com[0m[94m (FQDN)[0m [97m-->[0m [95mnode[0m [97m-->[0m [92mmail6.welstorymall.com[0m[94m (FQDN)[0m
+[92mwelstorymall.com[0m[94m (FQDN)[0m [97m-->[0m [95mnode[0m [97m-->[0m [92mmail1.welstorymall.com[0m[94m (FQDN)[0m
+[92mwelstorymall.com[0m[94m (FQDN)[0m [97m-->[0m [95mnode[0m [97m-->[0m [92mmail5.welstorymall.com[0m[94m (FQDN)[0m
+[92mwelstorymall.com[0m[94m (FQDN)[0m [97m-->[0m [95mnode[0m [97m-->[0m [92mmail2.welstorymall.com[0m[94m (FQDN)[0m
+[92mwelstorymall.com[0m[94m (FQDN)[0m [97m-->[0m [95mnode[0m [97m-->[0m [92mmail4.welstorymall.com[0m[94m (FQDN)[0m
